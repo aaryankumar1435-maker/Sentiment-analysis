@@ -1,16 +1,33 @@
-# React + Vite
+# Sentiment Analyzer 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered customer feedback sentiment analyzer built with React and Google Gemini API.
 
-Currently, two official plugins are available:
+## 🔍 What it does
+- Analyzes customer feedback and reviews in real-time
+- Detects sentiment: Positive, Negative, Neutral, or Mixed
+- Shows sentiment score from -1.0 (very negative) to +1.0 (very positive)
+- Extracts key phrases from the feedback
+- Generates actionable business insights
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+- **React** — Frontend UI
+- **Vite** — Build tool
+- **Google Gemini AI API** — Sentiment analysis
+- **CSS-in-JS** — Styling
 
-## React Compiler
+## 🚀 Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. Clone the repo
+### 2. Install dependencies
+### 3. Add your API key
+### 4. Run the app
 
-## Expanding the ESLint configuration
+## 📸 Features
+- Real-time AI sentiment analysis
+- Visual sentiment score bar
+- Keyword extraction
+- Business insight summary
+- Clean, responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Live Demo
+Coming soon...
